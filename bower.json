@@ -1,0 +1,26 @@
+{
+  "name": "jquery.sp-regex",
+  "version": "0.1.0",
+  "homepage": "https://github.com/soloproyectos-js/jquery.sp-regex",
+  "authors": [
+    "Gonzalo Chumillas <gchumillas@email.com>"
+  ],
+  "description": "A regular expression helper plugin for jQuery.",
+  "main": "dist/jquery.sp-regex.min.js",
+  "keywords": [
+    "jquery",
+    "regular",
+    "expression",
+    "regexp",
+    "regex"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "~2.0"
+  }
+}
