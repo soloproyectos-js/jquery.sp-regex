@@ -4,9 +4,9 @@
  * This plugin requires: 
  *      1. jQuery ~2.0
  *
- * @author    Gonzalo Chumillas <gchumillas@email.com>
- * @license   https://github.com/wirexmedia/jquery.sp-reg/blob/master/LICENSE MIT License
- * @link      https://github.com/wirexmedia/jquery.sp-reg
+ * @author  Gonzalo Chumillas <gchumillas@email.com>
+ * @license https://github.com/wirexmedia/jquery.sp-reg/blob/master/LICENSE MIT License
+ * @link    https://github.com/wirexmedia/jquery.sp-reg
  */
 (function ($) {
     
